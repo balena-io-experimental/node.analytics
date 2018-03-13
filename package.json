@@ -1,7 +1,7 @@
 {
-  "name": "analytics.node",
+  "name": "resin-analytics",
   "version": "1.0.0",
-  "description": "A library to integrate analytics to nodejs applications",
+  "description": "A library to integrate analytics",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha"
