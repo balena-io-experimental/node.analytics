@@ -10,7 +10,7 @@
     "analytics"
   ],
   "author": "izavits <izavits@gmail.com>",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "dependencies": {
     "@segment/convert-dates": "^1.0.0",
     "@segment/fmt": "^1.0.0",
